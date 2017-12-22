@@ -1,1 +1,0 @@
-# skrip-kontur
