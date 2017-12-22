@@ -1,3 +1,5 @@
+import os
+
 blueprint = open("blueprint.txt", "r").read().splitlines()
 # print blueprint
 
@@ -42,3 +44,4 @@ for n, x in enumerate(data):
 	hasil.write("\n")
 
 print "Selesai."
+os.system("pause")
