@@ -10,12 +10,13 @@ unfav = unfav.replace("\n", ",").replace("\t", "").replace(" ", "")
 unfav = unfav.split(",")
 unfav = [int(a) - 1 for a in unfav]
 
-blueprint = []
+blueprint = [0] * 10
 for a in fav:
 	# blueprint[a] = "fav"
 	pass
 
 # blueprint[0] = "fav"
+print blueprint
 
 
 # fav = open("1. fav.txt", "r").read().splitlines()
