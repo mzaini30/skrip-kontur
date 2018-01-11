@@ -1,6 +1,5 @@
 fav = open("1. fav.txt", "r").read()
-fav = fav
-		.replace(", ", ",")
+fav = fav.replace("\n", ",").replace("\t", "").replace(", ", ",")
 
 
 
