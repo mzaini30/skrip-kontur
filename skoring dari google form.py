@@ -1,5 +1,12 @@
 fav = open("1. fav.txt", "r").read()
-fav = fav.replace("\n", ",").replace("\t", "").replace(", ", ",")
+fav = fav.replace("\n", ",").replace("\t", "").replace(" ", "")
+fav = fav.split(",")
+fav = [int(a) - 1 for a in fav]
+
+unfav = open("1. unfav.txt", "r").read()
+unfav = unfav.replace("\n", ",").replace("\t", "").replace(" ", "")
+unfav = unfav.split(",")
+unfav = [int(a) - 1 for a in unfav]
 
 
 
@@ -12,7 +19,7 @@ fav = fav.replace("\n", ",").replace("\t", "").replace(", ", ",")
 # unfav = [a.split(",") for a in unfav]
 
 print fav
-# print unfav
+print unfav
 
 
 # flat = [x for sublist in nested for x in sublist]
