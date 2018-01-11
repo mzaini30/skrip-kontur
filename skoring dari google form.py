@@ -1,3 +1,5 @@
+# mengolah favorable dan unfavorable
+
 fav = open("1. fav.txt", "r").read()
 fav = fav.replace("\n", ",").replace("\t", "").replace(" ", "")
 fav = fav.split(",")
