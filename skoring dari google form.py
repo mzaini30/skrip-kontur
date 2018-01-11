@@ -24,13 +24,12 @@ data = open("data.txt", "r").read().splitlines()
 data = [a.split("\t") for a in data]
 
 opsi = open("opsi.txt", "r").read().splitlines()
-# print opsi
-# print len(opsi)
 
 skoring = []
 error = False
 for a, b in enumerate(data):
 	for n, x in enumerate(blueprint):
+
 		if len(opsi) == 4:
 			if blueprint[n] == "fav":
 				if data[a][n] == opsi[0]:
@@ -60,6 +59,43 @@ for a, b in enumerate(data):
 
 			else:
 				print "Cek blueprint.txt"
+
+		elif len(opsi) == 5:
+			if blueprint[n] == "fav":
+				if data[a][n] == opsi[0]:
+					skoring.append("5")
+				if data[a][n] == opsi[1]:
+					skoring.append("4")
+				elif data[a][n] == opsi[2]:
+					skoring.append("3")
+				elif data[a][n] == opsi[3]:
+					skoring.append("2")
+				elif data[a][n] == opsi[4]:
+					skoring.append("1")
+				else:
+					skoring.append("error")
+					error = True
+
+			elif blueprint[n] == "unfav":
+				if data[a][n] == opsi[0]:
+					skoring.append("1")
+				elif data[a][n] == opsi[1]:
+					skoring.append("2")
+				elif data[a][n] == opsi[2]:
+					skoring.append("3")
+				elif data[a][n] == opsi[3]:
+					skoring.append("4")
+				elif data[a][n] == opsi[4]:
+					skoring.append("5")
+				else:
+					skoring.append("error")
+					error = True
+
+			else:
+				print "Cek blueprint.txt"
+
+		else:
+			print "Berapa jumlah opsinya?"
 
 skoring = [skoring[i:i+len(blueprint)] for i in range(0,len(skoring),len(blueprint))]
 
