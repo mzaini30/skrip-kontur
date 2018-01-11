@@ -18,41 +18,38 @@ for a in fav:
 for a in unfav:
 	blueprint[a] = "unfav"
 
-print blueprint
-
-print fav
-print unfav
-
 # copas dari skrip sebelumnya
 
 data = open("data.txt", "r").read().splitlines()
 data = [a.split("\t") for a in data]
+
+
 
 skoring = []
 error = False
 for a, b in enumerate(data):
 	for n, x in enumerate(blueprint):
 		if blueprint[n] == "fav":
-			if data[a][n] == "Sangat Setuju":
+			if data[a][n] == "SS":
 				skoring.append("4")
-			elif data[a][n] == "Setuju":
+			elif data[a][n] == "S":
 				skoring.append("3")
-			elif data[a][n] == "Tidak Setuju":
+			elif data[a][n] == "TS":
 				skoring.append("2")
-			elif data[a][n] == "Sangat Tidak Setuju":
+			elif data[a][n] == "STS":
 				skoring.append("1")
 			else:
 				skoring.append("error")
 				error = True
 
 		elif blueprint[n] == "unfav":
-			if data[a][n] == "Sangat Setuju":
+			if data[a][n] == "SS":
 				skoring.append("1")
-			elif data[a][n] == "Setuju":
+			elif data[a][n] == "S":
 				skoring.append("2")
-			elif data[a][n] == "Tidak Setuju":
+			elif data[a][n] == "TS":
 				skoring.append("3")
-			elif data[a][n] == "Sangat Tidak Setuju":
+			elif data[a][n] == "STS":
 				skoring.append("4")
 			else:
 				skoring.append("error")
