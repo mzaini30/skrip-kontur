@@ -23,40 +23,43 @@ for a in unfav:
 data = open("data.txt", "r").read().splitlines()
 data = [a.split("\t") for a in data]
 
-
+opsi = open("opsi.txt", "r").read().splitlines()
+# print opsi
+# print len(opsi)
 
 skoring = []
 error = False
 for a, b in enumerate(data):
 	for n, x in enumerate(blueprint):
-		if blueprint[n] == "fav":
-			if data[a][n] == "SS":
-				skoring.append("4")
-			elif data[a][n] == "S":
-				skoring.append("3")
-			elif data[a][n] == "TS":
-				skoring.append("2")
-			elif data[a][n] == "STS":
-				skoring.append("1")
-			else:
-				skoring.append("error")
-				error = True
+		if len(opsi) == 4:
+			if blueprint[n] == "fav":
+				if data[a][n] == opsi[0]:
+					skoring.append("4")
+				elif data[a][n] == opsi[1]:
+					skoring.append("3")
+				elif data[a][n] == opsi[2]:
+					skoring.append("2")
+				elif data[a][n] == opsi[3]:
+					skoring.append("1")
+				else:
+					skoring.append("error")
+					error = True
 
-		elif blueprint[n] == "unfav":
-			if data[a][n] == "SS":
-				skoring.append("1")
-			elif data[a][n] == "S":
-				skoring.append("2")
-			elif data[a][n] == "TS":
-				skoring.append("3")
-			elif data[a][n] == "STS":
-				skoring.append("4")
-			else:
-				skoring.append("error")
-				error = True
+			elif blueprint[n] == "unfav":
+				if data[a][n] == opsi[0]:
+					skoring.append("1")
+				elif data[a][n] == opsi[1]:
+					skoring.append("2")
+				elif data[a][n] == opsi[2]:
+					skoring.append("3")
+				elif data[a][n] == opsi[3]:
+					skoring.append("4")
+				else:
+					skoring.append("error")
+					error = True
 
-		else:
-			print "Cek blueprint.txt"
+			else:
+				print "Cek blueprint.txt"
 
 skoring = [skoring[i:i+len(blueprint)] for i in range(0,len(skoring),len(blueprint))]
 
