@@ -10,10 +10,10 @@ unfav = [int(a) - 1 for a in unfav]
 
 blueprint = []
 for a in fav:
-	# blueprint[a] = fav
+	# blueprint[a] = "fav"
 	pass
 
-blueprint[0] = "fav"
+# blueprint[0] = "fav"
 
 
 # fav = open("1. fav.txt", "r").read().splitlines()
@@ -27,5 +27,7 @@ blueprint[0] = "fav"
 print fav
 print unfav
 
+print len(fav)
+print len(unfav)
 
 # flat = [x for sublist in nested for x in sublist]
