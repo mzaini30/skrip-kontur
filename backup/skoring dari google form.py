@@ -9,7 +9,6 @@ data = [a.split("\t") for a in data]
 
 skoring = []
 error = False
-blueprint_error = False
 for a, b in enumerate(data):
 	for n, x in enumerate(blueprint):
 		if blueprint[n] == "fav":
@@ -39,7 +38,7 @@ for a, b in enumerate(data):
 				error = True
 
 		else:
-			blueprint_error = True
+			print "Cek blueprint.txt"
 
 skoring = [skoring[i:i+len(blueprint)] for i in range(0,len(skoring),len(blueprint))]
 # print skoring
@@ -55,8 +54,6 @@ for n, x in enumerate(data):
 		hasil.write("\t")
 	hasil.write("\n")
 
-if blueprint_error == True:
-	print "Cek blueprint."
 if error == True:
 	print "Ada error. Cek hasil.txt"
 print "Selesai."
