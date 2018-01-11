@@ -1,111 +1,102 @@
-SS	S	SS	TS	TS	S	SS	S	SS	TS	TS	S	S	SS	S	TS	TS	TS	S	SS	S	TS	S	S
-S	S	S	S	S	S	SS	SS	S	TS	TS	S	S	S	S	TS	TS	TS	S	S	S	S	S	S
-SS	S	S	TS	TS	S	S	S	S	TS	TS	TS	S	S	S	S	TS	S	S	S	S	TS	S	TS
-S	S	S	TS	TS	TS	SS	S	S	TS	TS	TS	S	S	S	TS	TS	S	S	S	S	S	TS	TS
-S	TS	TS	TS	TS	S	S	S	S	TS	TS	TS	S	S	S	TS	S	TS	SS	SS	TS	SS	S	S
-S	S	S	TS	TS	S	S	S	S	TS	TS	S	S	S	S	TS	TS	TS	S	S	S	S	TS	TS
-SS	S	S	TS	TS	S	S	S	S	TS	S	S	S	S	S	TS	STS	STS	SS	SS	S	TS	TS	TS
-SS	SS	S	TS	TS	SS	SS	S	SS	TS	TS	TS	SS	SS	SS	TS	TS	TS	S	S	TS	S	S	TS
-SS	S	S	S	TS	S	S	SS	SS	S	TS	TS	S	S	SS	TS	TS	S	S	SS	S	S	S	TS
-S	S	S	TS	TS	S	SS	S	S	TS	TS	S	S	SS	SS	STS	TS	TS	TS	SS	S	STS	TS	TS
-S	TS	S	TS	TS	S	S	S	S	TS	TS	TS	S	S	SS	TS	S	TS	S	S	S	S	SS	TS
-S	S	S	TS	TS	TS	S	S	S	TS	S	TS	S	S	S	TS	TS	S	S	S	S	TS	TS	TS
-S	S	S	TS	TS	TS	S	S	S	TS	S	TS	S	S	S	TS	TS	S	S	S	S	TS	TS	TS
-S	S	S	S	TS	S	S	S	S	TS	TS	TS	S	S	S	TS	TS	S	S	S	S	TS	TS	TS
-SS	SS	SS	STS	STS	S	SS	SS	SS	STS	STS	STS	SS	SS	SS	STS	STS	STS	SS	SS	SS	STS	STS	STS
-S	TS	TS	TS	TS	S	SS	S	S	S	S	S	S	SS	SS	TS	STS	STS	TS	SS	S	S	TS	TS
-S	S	TS	TS	TS	S	S	S	S	TS	S	TS	S	TS	S	STS	S	TS	S	TS	TS	S	S	TS
-S	SS	S	TS	STS	TS	S	S	SS	TS	TS	TS	S	S	S	TS	TS	TS	S	TS	S	S	TS	S
-SS	SS	S	TS	TS	S	SS	SS	SS	STS	STS	STS	SS	SS	SS	TS	TS	TS	TS	SS	S	S	STS	S
-S	S	TS	TS	TS	S	S	S	S	TS	TS	TS	S	S	S	TS	TS	TS	TS	S	S	S	TS	TS
-SS	SS	SS	STS	STS	STS	SS	SS	SS	STS	STS	STS	SS	SS	SS	STS	STS	STS	SS	SS	SS	STS	STS	STS
-TS	TS	TS	S	TS	S	S	S	S	TS	TS	TS	S	S	S	TS	TS	TS	S	S	S	S	TS	TS
-S	S	S	TS	TS	S	S	S	S	TS	TS	S	TS	S	S	TS	TS	TS	TS	S	S	S	S	S
-S	S	SS	TS	TS	TS	S	S	S	TS	TS	TS	S	S	S	TS	TS	TS	S	S	S	TS	TS	TS
-SS	SS	S	TS	TS	S	SS	SS	SS	STS	TS	TS	SS	SS	SS	STS	TS	TS	TS	S	TS	S	S	TS
-S	SS	S	TS	TS	S	S	S	S	S	S	TS	S	S	S	TS	TS	TS	SS	SS	S	S	S	STS
-S	S	TS	TS	TS	S	SS	SS	SS	STS	S	S	TS	TS	S	S	TS	TS	SS	SS	S	TS	TS	TS
-S	S	TS	S	TS	S	S	S	S	TS	S	S	S	S	S	TS	TS	TS	S	S	S	TS	S	S
-S	SS	S	S	TS	TS	SS	S	S	TS	S	S	SS	SS	SS	TS	TS	TS	TS	SS	SS	TS	TS	TS
-S	S	S	S	TS	SS	SS	SS	SS	TS	TS	S	SS	SS	SS	TS	TS	TS	TS	SS	TS	S	TS	TS
-S	S	S	TS	TS	S	SS	S	S	TS	TS	TS	S	S	S	TS	TS	TS	TS	S	TS	TS	TS	TS
-S	S	S	TS	TS	TS	S	S	S	TS	TS	TS	S	SS	SS	STS	S	TS	TS	S	S	S	S	TS
-TS	TS	TS	S	TS	S	S	S	S	TS	S	TS	S	S	S	TS	TS	TS	S	S	TS	TS	TS	TS
-SS	S	S	TS	TS	S	SS	S	SS	TS	TS	TS	SS	SS	S	TS	TS	TS	S	S	S	TS	TS	TS
-S	SS	S	TS	STS	SS	SS	SS	SS	STS	TS	STS	S	S	SS	STS	TS	TS	S	SS	S	S	TS	TS
-S	S	S	TS	TS	S	SS	S	S	TS	TS	TS	S	S	S	TS	STS	TS	S	SS	S	TS	STS	STS
-S	S	S	TS	TS	S	S	S	S	TS	TS	S	S	S	S	TS	TS	TS	TS	S	S	S	TS	TS
-SS	SS	S	STS	TS	S	SS	S	S	STS	TS	TS	S	S	SS	STS	TS	TS	S	SS	S	S	S	TS
-SS	SS	S	STS	STS	TS	S	S	S	STS	TS	TS	S	S	S	TS	TS	TS	TS	S	S	S	TS	TS
-S	S	S	S	TS	S	S	S	S	TS	S	S	S	S	SS	TS	TS	TS	S	SS	S	S	TS	TS
-SS	S	S	S	TS	S	S	S	S	TS	TS	S	S	S	S	TS	TS	TS	TS	S	S	TS	TS	TS
-SS	S	S	TS	STS	S	SS	S	SS	TS	S	STS	S	S	S	STS	TS	TS	S	SS	S	S	S	TS
-S	S	S	TS	TS	S	S	S	S	TS	S	TS	S	S	S	TS	TS	S	S	S	S	S	S	S
-S	SS	S	S	TS	S	SS	S	SS	TS	TS	TS	S	SS	SS	STS	TS	TS	S	SS	SS	S	TS	TS
-SS	S	SS	TS	TS	TS	SS	S	S	TS	TS	TS	S	SS	SS	STS	STS	TS	S	S	S	STS	TS	STS
-SS	SS	SS	TS	TS	SS	SS	SS	SS	TS	TS	TS	SS	SS	SS	TS	TS	TS	S	SS	SS	S	S	TS
-SS	SS	SS	S	S	SS	S	SS	S	S	S	S	S	S	SS	TS	TS	S	SS	S	SS	TS	TS	TS
-SS	SS	SS	SS	SS	SS	SS	SS	SS	SS	SS	SS	SS	SS	SS	SS	SS	SS	SS	SS	SS	SS	SS	SS
-SS	S	TS	SS	TS	S	SS	TS	S	TS	S	S	S	S	SS	STS	TS	TS	TS	S	TS	S	TS	TS
-SS	SS	S	TS	TS	TS	SS	S	SS	TS	TS	TS	S	S	S	TS	TS	TS	S	S	S	TS	TS	TS
-S	S	S	TS	TS	S	S	S	S	S	S	TS	SS	SS	SS	TS	TS	TS	S	S	S	S	S	S
-SS	S	S	TS	TS	S	SS	SS	S	S	TS	S	S	S	SS	TS	TS	TS	S	S	S	TS	TS	TS
-SS	SS	S	TS	TS	S	SS	SS	SS	STS	TS	TS	S	SS	S	TS	STS	TS	S	S	SS	TS	S	TS
-S	S	S	S	TS	S	SS	SS	SS	STS	TS	TS	SS	SS	SS	TS	TS	TS	S	SS	SS	S	SS	STS
-S	S	S	TS	TS	S	S	S	S	TS	TS	TS	S	S	S	TS	TS	TS	TS	S	S	S	TS	TS
-SS	S	S	TS	TS	S	S	S	SS	TS	TS	TS	SS	SS	SS	TS	TS	TS	SS	SS	S	S	S	TS
-S	S	S	TS	TS	S	S	S	SS	STS	TS	S	S	S	SS	STS	STS	TS	TS	S	S	TS	S	STS
-S	S	S	TS	TS	TS	S	S	S	TS	TS	TS	S	S	SS	TS	TS	TS	TS	S	TS	S	TS	TS
-S	S	S	TS	TS	S	S	SS	SS	TS	TS	TS	SS	S	SS	TS	TS	TS	S	SS	S	TS	S	TS
-S	S	S	TS	TS	S	S	SS	SS	TS	TS	TS	SS	S	SS	TS	TS	TS	S	SS	S	TS	S	TS
-TS	TS	S	S	TS	TS	SS	S	S	TS	S	S	SS	S	S	TS	TS	TS	TS	S	TS	S	TS	TS
-SS	S	S	S	TS	TS	SS	SS	SS	TS	TS	TS	S	S	SS	TS	TS	TS	S	S	S	S	S	S
-SS	S	S	S	TS	TS	SS	SS	SS	TS	TS	TS	S	S	SS	TS	TS	TS	S	S	S	S	S	S
-SS	S	S	S	TS	TS	SS	SS	SS	TS	TS	TS	S	S	SS	TS	TS	TS	S	S	S	S	S	S
-S	S	S	TS	STS	S	SS	S	S	TS	TS	TS	S	S	S	STS	STS	TS	S	S	S	TS	TS	STS
-SS	SS	SS	TS	TS	SS	SS	SS	SS	TS	TS	STS	STS	SS	SS	TS	S	S	S	SS	SS	TS	TS	TS
-SS	SS	SS	TS	TS	SS	SS	SS	SS	TS	TS	STS	STS	SS	SS	TS	S	S	S	SS	SS	TS	TS	TS
-SS	SS	SS	TS	TS	SS	SS	SS	SS	TS	TS	STS	STS	SS	SS	TS	S	S	S	SS	SS	TS	TS	TS
-SS	SS	SS	TS	TS	SS	SS	SS	SS	TS	TS	STS	STS	SS	SS	TS	S	S	S	SS	SS	TS	TS	TS
-SS	SS	SS	TS	TS	SS	SS	SS	SS	TS	TS	STS	STS	SS	SS	TS	S	S	S	SS	SS	TS	TS	TS
-SS	SS	SS	TS	TS	SS	SS	SS	SS	TS	TS	STS	STS	SS	SS	TS	S	S	S	SS	SS	TS	TS	TS
-SS	SS	SS	TS	TS	SS	SS	SS	SS	TS	TS	STS	STS	SS	SS	TS	S	S	S	SS	SS	TS	TS	TS
-SS	SS	SS	TS	TS	SS	SS	SS	SS	TS	TS	STS	STS	SS	SS	TS	S	S	S	SS	SS	TS	TS	TS
-SS	S	SS	TS	TS	TS	SS	SS	SS	STS	TS	TS	S	SS	SS	STS	STS	STS	S	SS	SS	TS	TS	TS
-S	S	S	TS	TS	S	SS	SS	SS	TS	S	S	S	SS	SS	TS	SS	S	SS	SS	SS	TS	S	TS
-SS	SS	SS	STS	STS	S	SS	SS	SS	SS	TS	S	S	SS	SS	TS	STS	STS	S	S	S	S	SS	TS
-SS	SS	SS	TS	TS	TS	SS	SS	SS	TS	TS	TS	S	SS	SS	TS	TS	TS	SS	SS	SS	S	S	TS
-SS	SS	SS	TS	TS	TS	SS	SS	SS	TS	SS	TS	SS	SS	SS	TS	TS	TS	SS	SS	SS	S	TS	TS
-SS	SS	SS	TS	TS	S	SS	S	S	TS	S	S	SS	S	SS	TS	TS	TS	S	S	S	S	S	TS
-S	S	S	TS	TS	S	SS	SS	SS	TS	TS	TS	S	S	SS	TS	TS	TS	S	SS	SS	TS	TS	TS
-SS	SS	SS	TS	TS	S	S	SS	SS	TS	S	TS	S	S	S	TS	S	SS	S	S	SS	TS	TS	S
-SS	SS	TS	TS	TS	S	S	SS	SS	TS	TS	TS	SS	SS	SS	TS	SS	S	SS	S	STS	TS	TS	TS
-SS	SS	TS	TS	TS	S	SS	SS	SS	TS	TS	TS	S	SS	SS	TS	SS	TS	S	S	S	TS	TS	TS
-S	S	S	TS	TS	S	S	SS	S	TS	TS	TS	S	S	S	TS	TS	TS	S	S	S	TS	S	TS
-S	S	S	TS	TS	S	S	S	S	TS	TS	S	S	S	S	TS	TS	TS	S	S	S	S	TS	TS
-SS	S	S	TS	TS	S	SS	TS	S	TS	TS	TS	S	S	S	TS	TS	TS	S	S	S	TS	S	TS
-S	S	S	TS	TS	S	S	S	S	TS	TS	TS	S	S	S	TS	TS	TS	TS	S	S	TS	TS	TS
-SS	SS	SS	STS	STS	STS	SS	SS	SS	STS	TS	TS	S	S	S	TS	TS	TS	TS	SS	SS	S	S	TS
-SS	S	S	TS	TS	S	S	S	S	TS	S	S	S	S	TS	S	TS	TS	TS	S	S	S	S	S
-S	S	S	S	TS	SS	S	S	SS	TS	TS	S	S	S	S	TS	TS	TS	S	S	S	TS	TS	TS
-SS	S	SS	TS	TS	S	SS	S	S	S	S	S	S	S	SS	TS	TS	TS	S	S	S	TS	TS	S
-SS	SS	SS	TS	TS	S	S	SS	SS	TS	S	S	SS	SS	SS	TS	TS	TS	S	SS	S	TS	TS	TS
-SS	SS	S	S	TS	S	S	S	S	STS	SS	TS	S	S	S	TS	S	TS	SS	TS	S	S	S	TS
-SS	S	S	TS	TS	S	TS	S	SS	SS	SS	S	S	S	TS	TS	S	TS	SS	SS	SS	SS	S	S
-S	S	S	TS	TS	S	SS	S	SS	TS	TS	TS	S	S	S	TS	STS	TS	S	S	S	TS	S	TS
-S	S	S	STS	TS	S	SS	SS	SS	STS	STS	STS	SS	SS	SS	STS	STS	STS	TS	SS	S	S	S	STS
-SS	S	S	TS	TS	S	S	S	S	TS	TS	TS	S	S	S	TS	TS	TS	S	S	S	TS	TS	TS
-SS	S	SS	TS	TS	TS	S	S	S	STS	TS	TS	S	S	S	TS	TS	TS	S	S	S	TS	TS	TS
-S	S	S	TS	TS	TS	SS	S	S	TS	TS	TS	S	S	S	TS	TS	TS	S	S	S	TS	TS	TS
-SS	S	S	TS	TS	S	S	S	S	S	TS	S	S	S	S	TS	TS	TS	TS	S	S	S	TS	TS
-SS	SS	TS	TS	TS	TS	S	SS	SS	TS	SS	TS	S	SS	S	TS	S	SS	S	SS	SS	TS	TS	TS
-SS	SS	TS	TS	TS	TS	SS	S	S	TS	TS	TS	S	S	S	TS	TS	TS	SS	SS	S	TS	TS	TS
-SS	S	SS	SS	S	S	SS	SS	SS	TS	TS	STS	S	STS	S	TS	TS	STS	SS	SS	SS	STS	STS	STS
-SS	SS	TS	TS	TS	SS	SS	SS	SS	TS	SS	TS	SS	SS	SS	STS	STS	STS	SS	SS	SS	STS	STS	SS
-SS	S	SS	S	SS	S	SS	SS	SS	STS	TS	SS	SS	S	SS	S	SS	S	S	SS	S	SS	S	S
-SS	SS	S	TS	TS	S	SS	SS	SS	TS	TS	TS	S	SS	SS	TS	TS	S	S	S	SS	TS	TS	TS
-S	S	S	TS	TS	S	SS	S	SS	STS	TS	S	S	SS	SS	TS	TS	S	TS	SS	S	S	S	TS
-SS	S	S	TS	TS	TS	SS	S	SS	STS	TS	TS	S	S	S	TS	TS	TS	SS	SS	S	S	TS	TS
-SS	SS	SS	STS	STS	TS	SS	S	S	STS	S	S	S	S	S	TS	STS	TS	TS	SS	S	S	STS	STS
-S	S	S	S	TS	S	SS	S	S	STS	TS	TS	S	SS	SS	TS	S	TS	S	S	TS	S	S	TS
-S	SS	SS	TS	STS	S	SS	SS	S	TS	STS	TS	S	TS	SS	STS	STS	TS	S	SS	SS	TS	TS	TS
+sangat setuju	setuju	sangat tidak setuju	setuju	tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	setuju	sangat setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	setuju	tidak setuju	tidak setuju	sangat setuju	setuju
+setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	sangat setuju	setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	setuju	tidak setuju
+setuju	setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	tidak setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	sangat tidak setuju
+setuju	setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	tidak setuju
+sangat setuju	setuju	sangat tidak setuju	setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	tidak setuju	tidak setuju	tidak setuju	tidak setuju	setuju	sangat tidak setuju
+tidak setuju	tidak setuju	sangat tidak setuju	sangat setuju	setuju	tidak setuju	tidak setuju	sangat setuju	sangat tidak setuju	sangat setuju	sangat tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	sangat tidak setuju	sangat setuju	sangat tidak setuju	sangat setuju	sangat tidak setuju	setuju	setuju	tidak setuju
+tidak setuju	sangat setuju	sangat tidak setuju	setuju	tidak setuju	setuju	sangat setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	tidak setuju	sangat setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	setuju	setuju	tidak setuju
+setuju	tidak setuju	sangat tidak setuju	setuju	setuju	setuju	sangat setuju	sangat setuju	sangat setuju	setuju	tidak setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju	sangat tidak setuju	sangat tidak setuju	setuju	setuju	tidak setuju	setuju	sangat tidak setuju
+tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	tidak setuju
+setuju	setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	setuju	tidak setuju
+setuju	tidak setuju	tidak setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju
+setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	setuju	setuju	setuju	sangat setuju	setuju	tidak setuju	tidak setuju	sangat setuju	sangat tidak setuju	sangat setuju	tidak setuju	sangat setuju	setuju	tidak setuju	setuju	setuju
+setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju
+tidak setuju	sangat setuju	tidak setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	tidak setuju	setuju	sangat tidak setuju	setuju	sangat tidak setuju
+setuju	setuju	setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	sangat setuju	setuju	sangat setuju	setuju	setuju	tidak setuju	sangat setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	sangat setuju	sangat setuju	setuju	sangat setuju
+sangat setuju	setuju	sangat tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	sangat setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	tidak setuju	setuju	sangat setuju	sangat tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	setuju
+setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	sangat setuju	sangat setuju	sangat setuju	setuju	sangat setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	sangat setuju	setuju	setuju	sangat setuju	setuju	setuju
+sangat setuju	tidak setuju	sangat tidak setuju	setuju	tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	setuju	sangat setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	setuju	tidak setuju	tidak setuju	sangat setuju	setuju
+setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	sangat setuju	setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	setuju	tidak setuju
+setuju	setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	tidak setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	sangat tidak setuju
+setuju	tidak setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	tidak setuju
+sangat setuju	setuju	sangat tidak setuju	setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	tidak setuju	tidak setuju	tidak setuju	tidak setuju	setuju	sangat tidak setuju
+tidak setuju	setuju	sangat tidak setuju	sangat setuju	setuju	tidak setuju	tidak setuju	sangat setuju	sangat tidak setuju	sangat setuju	sangat tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	sangat tidak setuju	sangat setuju	sangat tidak setuju	sangat setuju	sangat tidak setuju	setuju	setuju	tidak setuju
+tidak setuju	sangat setuju	sangat tidak setuju	setuju	tidak setuju	setuju	sangat setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	tidak setuju	sangat setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	setuju	setuju	tidak setuju
+setuju	setuju	sangat tidak setuju	setuju	setuju	setuju	sangat setuju	sangat setuju	sangat setuju	setuju	tidak setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju	sangat tidak setuju	sangat tidak setuju	setuju	setuju	tidak setuju	setuju	sangat tidak setuju
+tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	tidak setuju
+setuju	setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	setuju	tidak setuju
+setuju	setuju	tidak setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju
+setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	setuju	setuju	setuju	sangat setuju	setuju	tidak setuju	tidak setuju	sangat setuju	sangat tidak setuju	sangat setuju	tidak setuju	sangat setuju	setuju	tidak setuju	setuju	setuju
+setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju
+tidak setuju	setuju	tidak setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	tidak setuju	setuju	sangat tidak setuju	setuju	sangat tidak setuju
+setuju	setuju	setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	sangat setuju	setuju	sangat setuju	setuju	setuju	tidak setuju	sangat setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	sangat setuju	sangat setuju	setuju	sangat setuju
+sangat setuju	tidak setuju	sangat tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	sangat setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	tidak setuju	setuju	sangat setuju	sangat tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	setuju
+setuju	sangat setuju	tidak setuju	tidak setuju	setuju	setuju	sangat setuju	sangat setuju	sangat setuju	setuju	sangat setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	sangat setuju	setuju	setuju	sangat setuju	setuju	setuju
+sangat setuju	setuju	sangat tidak setuju	setuju	tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	setuju	sangat setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju
+setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	sangat setuju	setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	sangat tidak setuju	setuju	sangat tidak setuju
+setuju	setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	tidak setuju	setuju	tidak setuju	tidak setuju	sangat setuju	sangat setuju	setuju	sangat setuju
+setuju	setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	setuju
+sangat setuju	setuju	sangat tidak setuju	setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	sangat setuju	setuju	setuju
+tidak setuju	tidak setuju	sangat tidak setuju	sangat setuju	setuju	tidak setuju	tidak setuju	sangat setuju	sangat tidak setuju	sangat setuju	sangat tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	sangat tidak setuju	sangat setuju	sangat tidak setuju	setuju	tidak setuju	tidak setuju	sangat setuju	setuju
+tidak setuju	sangat setuju	sangat tidak setuju	setuju	tidak setuju	setuju	sangat setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	tidak setuju	sangat setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	setuju	sangat setuju	setuju	tidak setuju
+setuju	tidak setuju	sangat tidak setuju	setuju	setuju	setuju	sangat setuju	sangat setuju	sangat setuju	setuju	tidak setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju	sangat tidak setuju	sangat tidak setuju	tidak setuju	setuju	setuju	setuju	sangat tidak setuju
+tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	tidak setuju
+setuju	setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	tidak setuju	tidak setuju	tidak setuju	setuju	sangat tidak setuju
+setuju	tidak setuju	tidak setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	sangat setuju	sangat tidak setuju	setuju	setuju	tidak setuju
+setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	setuju	setuju	setuju	sangat setuju	setuju	tidak setuju	tidak setuju	sangat setuju	sangat tidak setuju	sangat setuju	tidak setuju	setuju	sangat setuju	setuju	setuju	tidak setuju
+setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	sangat tidak setuju
+tidak setuju	sangat setuju	tidak setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	tidak setuju
+setuju	setuju	setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	sangat setuju	setuju	sangat setuju	setuju	setuju	tidak setuju	sangat setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju
+sangat setuju	setuju	sangat tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	sangat setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	tidak setuju	setuju	sangat setuju	sangat tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju
+setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	sangat setuju	sangat setuju	sangat setuju	setuju	sangat setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	sangat setuju	sangat setuju	setuju	tidak setuju	setuju	setuju
+sangat setuju	tidak setuju	sangat tidak setuju	setuju	tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	setuju	sangat setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju
+setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	sangat setuju	setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	sangat tidak setuju	setuju	sangat tidak setuju
+setuju	setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	tidak setuju	setuju	tidak setuju	tidak setuju	sangat setuju	sangat setuju	setuju	sangat setuju
+setuju	tidak setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	setuju
+sangat setuju	setuju	sangat tidak setuju	setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	sangat setuju	setuju	setuju
+tidak setuju	setuju	sangat tidak setuju	sangat setuju	setuju	tidak setuju	tidak setuju	sangat setuju	sangat tidak setuju	sangat setuju	sangat tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	sangat tidak setuju	sangat setuju	sangat tidak setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju
+tidak setuju	sangat setuju	sangat tidak setuju	setuju	tidak setuju	setuju	sangat setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	tidak setuju	sangat setuju	setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	sangat tidak setuju	setuju	sangat tidak setuju
+setuju	setuju	sangat tidak setuju	setuju	setuju	setuju	sangat setuju	sangat setuju	sangat setuju	setuju	tidak setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju	sangat tidak setuju	sangat tidak setuju	tidak setuju	sangat setuju	sangat setuju	setuju	sangat setuju
+tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	setuju
+setuju	setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	setuju	sangat setuju	setuju	setuju
+setuju	setuju	tidak setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	tidak setuju	sangat setuju	setuju
+setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	setuju	setuju	setuju	sangat setuju	setuju	tidak setuju	tidak setuju	sangat setuju	sangat tidak setuju	sangat setuju	tidak setuju	setuju	setuju	sangat setuju	setuju	tidak setuju
+setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	sangat tidak setuju
+tidak setuju	setuju	tidak setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	tidak setuju
+setuju	setuju	setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	sangat setuju	setuju	sangat setuju	setuju	setuju	tidak setuju	sangat setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	tidak setuju	tidak setuju	setuju	sangat tidak setuju
+sangat setuju	tidak setuju	sangat tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	sangat setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	tidak setuju	setuju	sangat setuju	sangat tidak setuju	sangat setuju	sangat tidak setuju	setuju	setuju	tidak setuju
+setuju	sangat setuju	tidak setuju	tidak setuju	setuju	setuju	sangat setuju	sangat setuju	sangat setuju	setuju	sangat setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	sangat setuju	setuju	sangat setuju	setuju	setuju	tidak setuju
+sangat setuju	setuju	sangat tidak setuju	setuju	tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	setuju	sangat setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	sangat tidak setuju
+setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	sangat setuju	setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju
+setuju	setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	setuju	setuju	tidak setuju
+setuju	setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju
+sangat setuju	setuju	sangat tidak setuju	setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	tidak setuju	sangat setuju	setuju	tidak setuju	setuju	setuju
+tidak setuju	tidak setuju	sangat tidak setuju	sangat setuju	setuju	tidak setuju	tidak setuju	sangat setuju	sangat tidak setuju	sangat setuju	sangat tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	sangat tidak setuju	sangat setuju	sangat tidak setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju
+tidak setuju	sangat setuju	sangat tidak setuju	setuju	tidak setuju	setuju	sangat setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	tidak setuju	sangat setuju	setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	sangat tidak setuju	setuju	sangat tidak setuju
+setuju	tidak setuju	sangat tidak setuju	setuju	setuju	setuju	sangat setuju	sangat setuju	sangat setuju	setuju	tidak setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju	sangat tidak setuju	sangat tidak setuju	tidak setuju	sangat setuju	sangat setuju	setuju	sangat setuju
+tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	setuju
+setuju	setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	setuju	sangat setuju	setuju	setuju
+setuju	tidak setuju	tidak setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju
+setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	setuju	setuju	setuju	sangat setuju	setuju	tidak setuju	tidak setuju	sangat setuju	sangat tidak setuju	sangat setuju	tidak setuju	tidak setuju	setuju	sangat tidak setuju	setuju	sangat tidak setuju
+setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	tidak setuju	sangat setuju	sangat setuju	setuju	sangat setuju
+tidak setuju	sangat setuju	tidak setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	setuju
+setuju	setuju	setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	sangat setuju	setuju	sangat setuju	setuju	setuju	tidak setuju	sangat setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	setuju	setuju
+sangat setuju	setuju	sangat tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	sangat setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	tidak setuju	setuju	sangat setuju	sangat tidak setuju	setuju	tidak setuju	tidak setuju	sangat setuju	setuju
+setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	sangat setuju	sangat setuju	sangat setuju	setuju	sangat setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	sangat setuju	setuju	setuju	sangat setuju	setuju	tidak setuju
+sangat setuju	tidak setuju	sangat tidak setuju	setuju	tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	setuju	sangat setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	sangat tidak setuju
+setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	sangat setuju	setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	setuju	tidak setuju
+setuju	setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	tidak setuju	setuju	tidak setuju	tidak setuju	tidak setuju	tidak setuju	setuju	sangat tidak setuju
+setuju	tidak setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	tidak setuju	sangat setuju	sangat tidak setuju	setuju	setuju	tidak setuju
+sangat setuju	setuju	sangat tidak setuju	setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	tidak setuju	setuju	sangat setuju	setuju	setuju	tidak setuju
+tidak setuju	setuju	sangat tidak setuju	sangat setuju	setuju	tidak setuju	tidak setuju	sangat setuju	sangat tidak setuju	sangat setuju	sangat tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	sangat tidak setuju	sangat setuju	sangat tidak setuju	setuju	setuju	tidak setuju	setuju	sangat tidak setuju
+tidak setuju	sangat setuju	sangat tidak setuju	setuju	tidak setuju	setuju	sangat setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	tidak setuju	sangat setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju
+setuju	setuju	sangat tidak setuju	setuju	setuju	setuju	sangat setuju	sangat setuju	sangat setuju	setuju	tidak setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju	sangat tidak setuju	sangat tidak setuju	setuju	setuju	setuju	setuju	tidak setuju
+tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju
+setuju	setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	sangat setuju	setuju	tidak setuju	setuju	setuju
+setuju	setuju	tidak setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju
+setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	setuju	setuju	setuju	sangat setuju	setuju	tidak setuju	tidak setuju	sangat setuju	sangat tidak setuju	sangat setuju	tidak setuju	tidak setuju	setuju	sangat tidak setuju	setuju	sangat tidak setuju
+setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	tidak setuju	sangat setuju	sangat setuju	setuju	sangat setuju
+tidak setuju	setuju	tidak setuju	tidak setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	tidak setuju	setuju	tidak setuju	setuju	tidak setuju	sangat setuju	tidak setuju	sangat setuju	tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	setuju
+setuju	setuju	setuju	setuju	tidak setuju	setuju	setuju	tidak setuju	sangat setuju	setuju	sangat setuju	setuju	setuju	tidak setuju	sangat setuju	setuju	setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	setuju	setuju
+sangat setuju	tidak setuju	sangat tidak setuju	setuju	tidak setuju	setuju	tidak setuju	setuju	setuju	sangat setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	tidak setuju	setuju	sangat setuju	sangat tidak setuju	setuju	sangat setuju	tidak setuju	sangat setuju	setuju
+setuju	sangat setuju	tidak setuju	tidak setuju	setuju	setuju	sangat setuju	sangat setuju	sangat setuju	setuju	sangat setuju	setuju	tidak setuju	tidak setuju	setuju	setuju	setuju	sangat setuju	sangat setuju	setuju	setuju	sangat setuju	setuju	setuju

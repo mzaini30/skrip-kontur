@@ -1,4 +1,4 @@
-SS
-S
-TS
-STS
+sangat setuju
+setuju
+tidak setuju
+sangat tidak setuju
