@@ -27,6 +27,7 @@ opsi = open("opsi.txt", "r").read().splitlines()
 
 skoring = []
 error = False
+
 for a, b in enumerate(data):
 	for n, x in enumerate(blueprint):
 
@@ -64,7 +65,7 @@ for a, b in enumerate(data):
 			if blueprint[n] == "fav":
 				if data[a][n] == opsi[0]:
 					skoring.append("5")
-				if data[a][n] == opsi[1]:
+				elif data[a][n] == opsi[1]:
 					skoring.append("4")
 				elif data[a][n] == opsi[2]:
 					skoring.append("3")
